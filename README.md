@@ -1,0 +1,1 @@
+# tp-semantic-networks-wordnet
